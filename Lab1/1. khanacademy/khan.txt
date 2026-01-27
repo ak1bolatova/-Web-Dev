@@ -1,0 +1,331 @@
+POEM
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+  <title>Pushkin</title>
+</head>
+
+<body>
+  <h1>
+  Я помню чудное мгновенье
+   
+  </h1>
+  <h4> А. С. Пушкин. </h4>
+  <p>
+   
+Я помню чудное мгновенье:<br>
+Передо мной явилась ты,<br>
+Как мимолетное виденье,<br>
+Как гений чистой красоты.<br><br>
+В томленьях грусти безнадежной,<br>
+В тревогах шумной суеты,<br>
+Звучал мне долго голос нежный<br>
+И снились милые черты.<br><br>
+Шли годы. Бурь порыв мятежный<br>
+Рассеял прежние мечты,<br>
+И я забыл твой голос нежный,<br>
+Твои небесные черты.<br><br>
+В глуши, во мраке заточенья<br>
+Тянулись тихо дни мои<br>
+Без божества, без вдохновенья,<br>
+Без слез, без жизни, без любви.<br><br>
+Душе настало пробужденье:<br>
+И вот опять явилась ты,<br>
+Как мимолетное виденье,<br>
+Как гений чистой красоты.<br><br>
+И сердце бьется в упоенье,<br>
+И для него воскресли вновь<br>
+И божество, и вдохновенье,<br>
+И жизнь, и слезы, и любовь.<br>
+
+  </p>
+ 
+</body>
+
+</html>
+
+TEXT
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Challenge: You can learn text tags</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <p>
+        Nobody’s born smart. We all start at 0. Can’t talk, can’t walk, certainly can’t do algebra.<br>
+        Adding, reading, writing, riding a bike. Nobody’s good at anything at first.<br>
+        There was a time when Einstein couldn’t count to 10.<br>
+        And Shakespeare had to learn his ABCs just like the rest of us.<br>
+        Thankfully, we are born to learn.<br>
+        Slowly. Surely. You stumble, slip, crawl, fall and fail and fall.<br>
+      <em>  Frustrating. Confusing. Trying. Struggling.</em><br>
+        Until one day, you walk.<br>
+        One foot in front of the other. One idea on top of the next.<br>
+        Each wrong answer making your brain a little bit stronger.<br>
+        Failing is just another word for growing. And you keep going.<br>
+        This. is. learning.<br>
+        It’s not that you don’t get it. <br>
+        You just don’t get it, yet.
+        Because the most beautiful, complex concepts in the whole universe<br>
+        are built on basic ideas that anyone, anywhere can understand.<br>
+      <em> <strong> Whoever you are, wherever you are.</strong></em><br>
+        </p>
+        <p>
+        You only have to know one thing:<br>
+       <strong> You can learn anything.</strong>
+        </p>
+    </body>
+</html>
+
+WHISHLIST
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Challenge: Wishlist</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <ul>
+          <li> Red Porche</li>
+          <li> Yacht </li>
+          <li> Own Island </li>
+          <li> Private Jet </li>
+          
+          
+          
+      </ul>
+      
+       <ol>
+          <li> Red Porche</li>
+          <li> Yacht </li>
+          <li> Own Island </li>
+          <li> Private Jet </li>
+          
+          
+          
+      </ol>
+        
+        
+    </body>
+</html>
+
+
+IMAGE
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Challenge: A picture-perfect trip</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>The perfect trip</h1>
+      
+        
+        <p>I would see scenes like...</p>
+      <img src="https://cdn.profile.ru/wp-content/uploads/2023/09/severnoe-siyanie.jpg"  alt="Aurora Borealis">
+        
+        <p>And animals like...</p>
+ <img src="https://d1jyxxz9imt9yb.cloudfront.net/medialib/1319/image/p1300x1300/Mignon0W0A3760_reduced.webp"  alt="Whales">
+        <p>And eat food like...</p>
+<img src="https://www.remitly.com/blog/wp-content/uploads/2023/09/kazakhstan-beshbarmak-975x650.jpg" alt="Beshbarmak">         
+        
+    </body>
+</html>
+
+
+CSS 
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Colorful creature</title>
+          <style>
+          h1{color:rgb(0,0,128)
+            }
+          body{
+            background-color:rgb(79, 66, 255)
+            }  
+          </style>
+        
+        
+        
+    </head>
+    <body>
+        
+      <h1>The coolest creature</h1>
+      <img src="" alt="Whales">
+        
+        <p>The <em>whales</em> is awesome because <strong>they are big and mysterious</strong>.</p>
+        
+    </body>
+</html>
+OLAF
+=<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Seasonal ids</title>
+        <style>
+        #summer{
+          background-color:yellow;
+          color:pink;}
+        #winter{
+          background-color:blue;
+          color:white;
+          
+        
+            
+        </style>
+    </head>
+    <body>
+        
+        <h1>Olaf's favorite seasons</h1>
+        
+        <h2 id="summer">Summer</h2>
+        <p>He's a happy snowman, doing what frozen things do in summer.</p>
+        
+        <h2 id="winter">Winter</h2>
+        <p>He likes to stay in and cuddle</p>
+    </body>
+</html>
+
+
+APPLE AND BANANAS
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Apples and bananas classes</title>
+        <style>
+            .apples{
+          color:green;}
+          .bananas{color:yellow;}         </style>
+    </head>
+    <body>
+
+    <h1><strong class="apples">Apples</strong> and <strong class="bananas">Bananas</strong></h1>
+    
+    <p>
+    I like to eat eat eat 
+        <strong class="apples">apples</strong> and
+        <strong class="bananas">bananas</strong>.<br>
+    I like to eat eat eat 
+        <strong class="apples">apples</strong> and
+        <strong class="bananas">bananas</strong>.<br>
+    I like to ate ate ate 
+        <strong class="apples">ay-ples</strong> and
+        <strong class="bananas">bay-nay-nays</strong>.<br>
+    I like to ate ate ate 
+        <strong class="apples">ay-ples</strong> and
+        <strong class="bananas">bay-nay-nays</strong>.<br>
+    I like to eet eet eet
+        <strong class="apples">ee-ples</strong> and
+        <strong class="bananas">bee-nee-nees</strong>.<br>
+    I like to eet eet eet
+        <strong class="apples">ee-ples</strong> and
+        <strong class="bananas">bee-nee-nees</strong>.<br>
+    I like to ite ite ite
+        <strong class="apples">i-ples</strong> and
+        <strong class="bananas">by-by-nys</strong>.<br>
+    I like to ite ite ite
+        <strong class="apples">i-ples</strong> and
+        <strong class="bananas">by-by-nys</strong>.<br>
+    I like to ote ote ote
+        <strong class="apples">oh-ples</strong> and
+        <strong class="bananas">bo-no-nos</strong>.<br>
+    I like to ote ote ote
+        <strong class="apples">oh-ples</strong> and
+        <strong class="bananas">bo-no-nos</strong>.<br>
+    I like to ute ute ute
+        <strong class="apples">uupples</strong> and
+        <strong class="bananas">bununus</strong>.<br>
+    I like to ute ute ute
+        <strong class="apples">uupples</strong> and
+        <strong class="bananas">bununus</strong>.<br>
+    I like to eat eat eat 
+        <strong>apples</strong> and
+        <strong>bananas</strong>.<br>
+</p>
+
+    </body>
+</html>
+
+TRAVEL PROJECT 
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        <style type="text/css" media="all">
+        body{
+        background-color:rgb(255,110,0);
+        }
+        h1{
+            color:
+            ;}
+        #food{
+            color: brown;
+        }    
+        .text{
+            background-color: white;
+            color: red;
+        }
+        
+        </style>
+    </head>
+    <body>
+    
+    <h1>Travel to China</h1>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/500px-Flag_of_the_People%27s_Republic_of_China.svg.png" alt="China flag">
+    <strong> <h4>List of places you must visit</h4></strong>
+        <ul>
+        <li>Great Wall</li>
+        <li> Forbidden City</li>
+        <li>Avatar mountains</li>
+        
+        </ul>
+     <strong> <h4>Intersting information</h4></strong> 
+     <p class="text">China is one of the world’s oldest civilizations, with over 5,000 years of history, yet it’s also one of the most futuristic countries on Earth.<br>
+
+China is the most populous country in the world, home to more than 1.4 billion people, and it has 56 officially recognized ethnic groups, each with its own traditions, clothing, and cuisine.<br>
+
+The country is famous for the Great Wall of China, which stretches over 21,000 kilometers. Contrary to a popular myth, it cannot be seen from space with the naked eye—but it remains one of the greatest engineering achievements in history.<br>
+
+China is also the birthplace of many important inventions, including paper, printing, gunpowder, and the compass, often called the Four Great Inventions. These discoveries changed the course of global history.<br></p>
+ <strong> <h4 id="food">Chinesee food</h4></strong> 
+     <p class="text">Chinese food is one of the most diverse and influential cuisines in the world. There is no single “Chinese cuisine” — instead, it is made up of many regional food traditions, each with its own flavors, ingredients, and cooking styles.
+
+One of the most famous is Sichuan cuisine, known for its bold, spicy taste and the unique “numbing” sensation from Sichuan pepper. Dishes like mapo tofu and hot pot come from this region.
+
+Cantonese cuisine focuses on fresh ingredients and light flavors. It is famous for dim sum, such as dumplings, buns, and rolls, often eaten with tea. This style is very popular around the world.
+
+Northern Chinese food uses more wheat-based products like noodles, pancakes, and dumplings. In contrast, southern China prefers rice, rice noodles, and lighter dishes.</p>
+</html>
+
+LESSON 3
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Links for learning</title>
+    </head>
+    <body>
+        
+        <h1>Links for learning</h1>
+        
+        <ul>
+            <li><a target="_blank" href>https://www.linkedin.com/in/akniyet-bolatova-9493bb325/ </a></li>
+            <li><a target="_blank" href>https://wsp.kbtu.kz/ </a></li>
+            <li><a target="_blank" href>  https://ru.pinterest.com/maslova8711/%D0%BA%D0%BE%D1%82%D0%B8%D0%BA%D0%B8/<img src="https://www.kasandbox.org/programming-images/cute/Heart.png"></a></li>
+        </ul>
+
+
+        
+    </body>
+</html>

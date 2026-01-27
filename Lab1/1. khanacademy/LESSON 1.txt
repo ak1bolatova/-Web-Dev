@@ -1,0 +1,130 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Challenge: Write a Poem</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+    <h1>
+  Я помню чудное мгновенье
+   
+  </h1>
+  <h4> А. С. Пушкин. </h4>
+  <p>
+   
+Я помню чудное мгновенье:<br>
+Передо мной явилась ты,<br>
+Как мимолетное виденье,<br>
+Как гений чистой красоты.<br><br>
+В томленьях грусти безнадежной,<br>
+В тревогах шумной суеты,<br>
+Звучал мне долго голос нежный<br>
+И снились милые черты.<br><br>
+Шли годы. Бурь порыв мятежный<br>
+Рассеял прежние мечты,<br>
+И я забыл твой голос нежный,<br>
+Твои небесные черты.<br><br>
+В глуши, во мраке заточенья<br>
+Тянулись тихо дни мои<br>
+Без божества, без вдохновенья,<br>
+Без слез, без жизни, без любви.<br><br>
+Душе настало пробужденье:<br>
+И вот опять явилась ты,<br>
+Как мимолетное виденье,<br>
+Как гений чистой красоты.<br><br>
+И сердце бьется в упоенье,<br>
+И для него воскресли вновь<br>
+И божество, и вдохновенье,<br>
+И жизнь, и слезы, и любовь.<br>
+
+  </p>
+
+    </body>
+</html>
+
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Challenge: You can learn text tags</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <p>
+        Nobody’s born smart. We all start at 0. Can’t talk, can’t walk, certainly can’t do algebra.<br>
+        Adding, reading, writing, riding a bike. Nobody’s good at anything at first.<br>
+        There was a time when Einstein couldn’t count to 10.<br>
+        And Shakespeare had to learn his ABCs just like the rest of us.<br>
+        Thankfully, we are born to learn.<br>
+        Slowly. Surely. You stumble, slip, crawl, fall and fail and fall.<br>
+      <em>  Frustrating. Confusing. Trying. Struggling.</em><br>
+        Until one day, you walk.<br>
+        One foot in front of the other. One idea on top of the next.<br>
+        Each wrong answer making your brain a little bit stronger.<br>
+        Failing is just another word for growing. And you keep going.<br>
+        This. is. learning.<br>
+        It’s not that you don’t get it. <br>
+        You just don’t get it, yet.
+        Because the most beautiful, complex concepts in the whole universe<br>
+        are built on basic ideas that anyone, anywhere can understand.<br>
+      <em> <strong> Whoever you are, wherever you are.</strong></em><br>
+        </p>
+        <p>
+        You only have to know one thing:<br>
+       <strong> You can learn anything.</strong>
+        </p>
+    </body>
+</html>
+
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Challenge: A picture-perfect trip</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>The perfect trip</h1>
+      
+        
+        <p>I would see scenes like...</p>
+      <img src="https://cdn.profile.ru/wp-content/uploads/2023/09/severnoe-siyanie.jpg"  alt="Aurora Borealis">
+        
+        <p>And animals like...</p>
+ <img src="https://d1jyxxz9imt9yb.cloudfront.net/medialib/1319/image/p1300x1300/Mignon0W0A3760_reduced.webp"  alt="Whales">
+        <p>And eat food like...</p>
+<img src="https://www.remitly.com/blog/wp-content/uploads/2023/09/kazakhstan-beshbarmak-975x650.jpg" alt="Beshbarmak">         
+        
+    </body>
+</html>
+
+
+
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Challenge: Wishlist</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <ul>
+          <li> Red Porche</li>
+          <li> Yacht </li>
+          <li> Own Island </li>
+          <li> Private Jet </li>
+          
+          
+          
+      </ul>
+      
+       <ol>
+          <li> Red Porche</li>
+          <li> Yacht </li>
+          <li> Own Island </li>
+          <li> Private Jet </li>
+          
+          
+          
+      </ol>
+        
+        
+    </body>
+</html>
