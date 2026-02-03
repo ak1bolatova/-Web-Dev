@@ -1,0 +1,250 @@
+
+body{
+    margin:0;
+    background-color: #F2F4F7;
+    
+}
+.back{
+    width:1270px;
+    height: 720px;
+    padding-top: 72px;
+    padding-bottom: 112px;
+    margin:0;
+    
+    
+}
+.main_block{
+    width: 980x;
+    height:496px;
+    padding-top:20px ;
+    padding-bottom: 20px;
+    margin-left: 145.200px;
+    margin-right: 145.200px;
+     display: flex;
+      flex-direction: row;
+}
+
+.facebook_logo_back{
+    width: 548px;
+    height: 298.075px;
+    padding-right: 32px;
+}
+.facebook_logo{
+    width: 548px;
+    height: 54.075px;
+    padding-top: 112px;
+    padding-bottom:16px;
+}
+.facebook_logo img{
+    width: 321px;
+    height: 106px;
+    margin: -28px;
+
+}
+.text{
+    width: 500px;
+    height:90px;
+    padding-bottom: 20px;
+   
+
+}
+  .text h2{
+font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 32px;
+    width: 500px;
+}
+.form_cn{
+    width: 396px;
+    height:496px;
+    
+   
+    
+}
+.email{
+
+ width: 364px;
+    height: 62px;
+    padding-top: 6px;
+    margin-left: 16px;
+    padding-bottom: 6px;
+ 
+}
+.password{ width: 364px;
+    height: 42px;
+    margin-left: 16px;
+ 
+
+}
+
+
+.email_password{
+    
+    width: 396px;
+    height: 131.275px;
+    
+}
+.lg{
+    background-color:#ffffff;
+    width: 396px;
+     border-radius: 6px;
+    height:314.37px ;
+}
+.input{
+    
+
+    width: 330px;
+    height: 22px;
+    background-color: #ffffff;
+    font-size: 17px;
+    padding: 14px 16px;
+    outline: none;
+    border-radius: 6px;
+   border: 1px solid #dddfe2;
+    
+        
+}
+.btn{
+    width: 396px;
+    height: 60px;
+    padding-left: 6px;
+    
+}
+button{
+    background-color: #1877f2;
+    margin-left: 10px;
+    font-family: Helvetica, Arial, sans-serif;
+    color: #F2F4F7;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 48px;
+    padding: 0 16px;
+    width: 364px;
+}
+hr{
+    color: #DADDE1;
+    width: 366px;
+
+}
+#forget_password{
+    
+  display: grid;
+  place-items: center;
+}
+a:visited {
+  color: none;
+}
+a
+{
+    font-family:Helvetica, Arial, sans-serif; 
+    color: #0866ff;
+    font-size: 14px;
+    font-weight: 500;
+    
+    text-decoration: none;
+}
+.hr{
+    width: 396px;
+    margin-top: 20px;
+    margin-bottom: 16px;
+   
+    height: 0.8px;
+}
+.create_new_account{
+    width: 396px;
+    height: 48px;
+    padding-top: 6px;
+    display: grid;
+  place-items: center;
+}
+#create_new_account_btn{
+    width:260px;
+    font-family: Helvetica, Arial, sans-serif; 
+    font-weight: 550;
+    background-color: #42b72a;
+    border: none;
+    border-radius: 6px;
+    font-size: 17px;
+    line-height: 48px;
+    padding: 0 16px;
+}
+.create_page_famous{
+    width: 396px;
+    height: 60px;
+    margin-top: 28px;
+    text-align: center;
+    
+    
+    
+}
+.create_page_famous p {
+    color: #1c1e21;
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    
+    font-weight: 400;
+
+}
+.create_page_famous p a {
+    color: #1c1e21;
+    font-weight: 650;
+
+}
+footer {
+    width:100%;
+    background-color: #fff;
+    margin-top: auto;
+    padding: 20px 0 28px;
+    font-size: 12px;
+    color: #8a8d91;
+}
+
+.footer-languages, .footer-links {
+    max-width: 1270px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 12px;
+    padding: 0 20px;
+}
+
+.footer-languages {
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 8px;
+}
+
+footer a {
+    color: #8a8d91;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+.footer-languages span {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 28px;
+    height: 20px;
+    border: 1px solid #ccd0d5;
+    border-radius: 2px;
+    background: #f5f6f7;
+    color: #4b4f56;
+    font-size: 14px;
+}
+
+.footer-meta {
+    margin-left: 106px;
+    font-size: 17px;
+    padding: 0 20px;
+    
+    
+    
+
+}
+
