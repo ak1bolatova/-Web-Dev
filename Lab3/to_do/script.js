@@ -4,18 +4,18 @@ const taskList = document.getElementById("taskList");
 
 addBtn.addEventListener("click", addTask);
 
-function addTask() {
-    const text = input.value.trim();
-    if (text === "") return;
-
+// функция создания одной задачи
+function createTask(text, completed = false) {
     const li = document.createElement("li");
     li.className = "task-item";
 
     const checkbox = document.createElement("input");
     checkbox.type = "checkbox";
+    checkbox.checked = completed;
 
     const span = document.createElement("span");
     span.textContent = text;
+    if (completed) span.classList.add("done");
 
     const deleteBtn = document.createElement("button");
     deleteBtn.textContent = "🗑";
@@ -26,6 +26,7 @@ function addTask() {
     li.appendChild(deleteBtn);
     taskList.appendChild(li);
 
+    // события
     checkbox.addEventListener("change", function () {
         span.classList.toggle("done");
     });
@@ -33,6 +34,18 @@ function addTask() {
     deleteBtn.addEventListener("click", function () {
         taskList.removeChild(li);
     });
+}
 
+// добавление новой задачи из input
+function addTask() {
+    const text = input.value.trim();
+    if (text === "") return;
+
+    createTask(text);
     input.value = "";
 }
+
+// начальные задачи создаются через JS
+createTask("First item", true);
+createTask("Second item");
+createTask("Third item");
