@@ -8,11 +8,8 @@ function addTask() {
     const text = input.value.trim();
     if (text === "") return;
 
-    // create elements
     const li = document.createElement("li");
-
-    const taskDiv = document.createElement("div");
-    taskDiv.className = "task";
+    li.className = "task-item";
 
     const checkbox = document.createElement("input");
     checkbox.type = "checkbox";
@@ -21,25 +18,19 @@ function addTask() {
     span.textContent = text;
 
     const deleteBtn = document.createElement("button");
-    deleteBtn.textContent = "Delete";
+    deleteBtn.textContent = "🗑";
     deleteBtn.className = "delete-btn";
 
-    // append elements
-    taskDiv.appendChild(checkbox);
-    taskDiv.appendChild(span);
-
-    li.appendChild(taskDiv);
+    li.appendChild(checkbox);
+    li.appendChild(span);
     li.appendChild(deleteBtn);
-
     taskList.appendChild(li);
 
-    // mark as done
-    checkbox.addEventListener("change", function() {
+    checkbox.addEventListener("change", function () {
         span.classList.toggle("done");
     });
 
-    // delete task
-    deleteBtn.addEventListener("click", function() {
+    deleteBtn.addEventListener("click", function () {
         taskList.removeChild(li);
     });
 
