@@ -2,20 +2,40 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Simple To-Do List</title>
+    <title>ToDo List</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
+<header class="topbar">
+    ToDo List
+</header>
+
 <div class="container">
-    <h1>To-Do List</h1>
+    <h1>ToDo List</h1>
 
     <div class="input-group">
-        <input type="text" id="taskInput" placeholder="Enter a task">
+        <input type="text" id="taskInput" placeholder="New Task">
         <button id="addBtn">Add</button>
     </div>
 
-    <ul id="taskList"></ul>
+    <ul id="taskList" class="task-list">
+        <li class="task-item">
+            <input type="checkbox" checked>
+            <span class="done">First item</span>
+            <button class="delete-btn">🗑</button>
+        </li>
+        <li class="task-item">
+            <input type="checkbox">
+            <span>Second item</span>
+            <button class="delete-btn">🗑</button>
+        </li>
+        <li class="task-item">
+            <input type="checkbox">
+            <span>Third item</span>
+            <button class="delete-btn">🗑</button>
+        </li>
+    </ul>
 </div>
 
 <script src="script.js"></script>
